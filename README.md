@@ -36,3 +36,4 @@ in the app and well as an email notification is recieved.
   we can also install GPS Tracking system so that parent can easily track their children when
   lost.
 
+![screenshot_2018-07-13-14-35-56-480_cc blynk](https://user-images.githubusercontent.com/41651033/43277905-1dd2c0f2-9127-11e8-8481-4ac7a4aa7b24.png)
